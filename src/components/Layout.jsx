@@ -87,7 +87,7 @@ const Layout = ({ children }) => {
       <div className={styles.container}>{children}</div>
 
       <footer className={styles.footer}>
-        <p>&copy; 2022 | Pruthviraj Auti</p>
+        <p>&copy; 2023 | Prajakta Jamdar</p>
       </footer>
     </div>
   );
